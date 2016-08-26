@@ -63,3 +63,6 @@ Education
 
 B.S., Computer Science, University of California, Los Angeles
 
+About Me
+--------
+I like powerlifting, meditating, climbing (bouldering), playing go/baduk, comedy, and dogs.
