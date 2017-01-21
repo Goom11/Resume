@@ -12,9 +12,11 @@ Aman Agarwal
 Experience
 ----------
 
-**Facebook** Software Engineering Intern, July 2016 - Current
+**Facebook** Software Engineering Intern, July 2016 - September 2016
 
-* Uhaul-Daiquery Integration (In Progress): Improving Data Scientist's UX by integrating two separate tools that are often used together
+* Uhaul-Daiquery Integration: Improving Data Scientist's UX by integrating two separate but commonly used together tools
+    * Reduced cognitive overhead by remembering dependencies between queries and data transfers
+    * Reduced cognitive overhead by pulling in metadata of datasets to help users compile queries more easily
 
 **Facebook** Software Engineering Intern, July 2015 - September 2015
 
@@ -36,7 +38,7 @@ Experience
 
 **The Coding School** Teacher, 2014 - 2017
 
-* Taught Javascript to Middle School Students
+* Taught HTML/CSS, Javascript, and Unity to Middle School Students
 * Learned what makes programming difficult to learn and how tools can make this easier
 
 Projects
