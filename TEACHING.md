@@ -12,6 +12,12 @@ Aman Agarwal
 Experience
 ----------
 
+**The Coding School** Instructor, 2014 - 2017
+
+* Taught HTML/CSS, Javascript, and Unity to Middle School Students
+* Learned what makes programming difficult to learn and how tools can make this easier
+* Helped design and provide feedback on course curriculums
+
 **Facebook** Software Engineering Intern, July 2016 - September 2016
 
 * Uhaul-Daiquery Integration: Improving Data Scientist's UX by integrating two separate but commonly used together tools
@@ -35,12 +41,6 @@ Experience
     * Decreased ramp up time for new developers
 * Added the Visa Commercial Format and Orbitz Travel documents to the system
     * Allowed for Visa corporate card expenses and Orbitz travel expenses to be used by the expense management system
-
-**The Coding School** Instructor, 2014 - 2017
-
-* Taught HTML/CSS, Javascript, and Unity to Middle School Students
-* Learned what makes programming difficult to learn and how tools can make this easier
-* Helped design and provide feedback on course curriculums
 
 Projects
 --------
