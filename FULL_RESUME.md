@@ -9,30 +9,28 @@ Aman Agarwal
 
 <aman.agarwal.2718@gmail.com> [\hfill]() [https://github.com/Goom11](https://github.com/Goom11)
 
-Experience
-----------
+Work Experience
+---------------
 
 **Facebook** Software Engineer, July 2017 - Current
 
-[Nuclide](https://nuclide.io/) is a custom IDE for Facebook developers written primarily in Javascript and Flow using ReactJS and Observables (RxJS). My role as a software engineer was to demonstrate strong software engineering skills, gain an understanding of the codebase and product area to be able to identify and drive changes, and skillfully work with partner teams and those in cross functional roles.
+[Nuclide](https://nuclide.io/) is a custom IDE for Facebook developers written primarily in Javascript and Flow using ReactJS and Observables (RxJS).
 
 **Java Debugger**
 
-* My role on the Java debugger was to migrate it to speak [Microsoft's Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-protocol/) (DAP) and increase adoption amongst Android developers
-* DAP Migration: Rewrote Nuclide's in house Java debugger to speak DAP as part of a project to migrate all Nuclide debuggers to speak the same protocol
+* **DAP Migration**: Rewrote Nuclide's in house Java debugger to speak [Microsoft's Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-protocol/)  as part of a project to migrate all Nuclide debuggers to speak the same protocol
     * Wrote multithreaded Java and learned to debug race conditions and properly use locks
-    * Added integration tests testing the debugger end to end
-* Driving Adoption: Utilized my newly gained knowledge of the codebase, I conducted user research on FB Android developers and drove adoption by developing features including better console expression evaluation, evaluate on hover support for variables in code, support for custom source paths allowing developers to debug library and other non standard code, and more
+    * Wrote end-to-end tests
+* **Driving Adoption**: Conducted user research on FB Android developers and drove adoption by developing features including better console expression evaluation, evaluate on hover support for variables in code, support for custom source paths allowing developers to debug library and other non standard code, and more
     * Used analytics infrastructure to measure changes in daily, weekly, and monthly usage
 
 **Python Support**
 
-* Despite the Python Services being used by thousands of FB developers, prior to my working on it, it was largely being ignored due to lack of manpower. As such, my role was to ramp up on the codebase, figure out what in the domain were the lowest hanging fruits and to implement them and drive growth
-* Conducted a user survery to find users' biggest pain points
-* Python Debugger: Sync And FB Specific Integrations
+* **User Research**: Conducted user interviews and user surverys to find users' biggest pain points
+* **Python Debugger**: Sync And FB Specific Integrations
     * Pulled in upstream changes for the Python debugger, pulling in over two years worth of open source commits resulting in greater performance, bug fixes and additional features
     * Added custom support for Instagram Django Python developers who work inside of a tupperware container and need custom port forwarding and path mapping as well as a custom Chef deployment of Nuclide
-* Format On Save: Feature in Nuclide that would format your file on save, using the appropriate formatter and formatter configuration according to your file's repository
+* **Format On Save**: Feature in Nuclide that would format your file on save, using the appropriate formatter and formatter configuration according to your file's repository
     * Worked with FB Lint teams
     * Like all other projects, I communicated my progress by sharing a live document consisting of a breakdown of the tasks, a timeline, and any notes on what was currently blocking my progress
 
@@ -69,9 +67,9 @@ Experience
 Projects
 --------
 
-**[Amanphic](http://goom11.github.io/VisualSimulations/)**: April 2016 - Current
+**[Amanphic](http://goom11.github.io/VisualSimulations/)**: April 2016
 
-* (In Progress): An exploration into making abstractions easier to understand and create
+* An exploration into making abstractions easier to understand and create
 * Uses a "Prototype tree" which combines advantages of both classical and prototypical inheritance
 * Displays many instances of a class to help users better understand the abstraction that the class provides
 
@@ -81,11 +79,18 @@ Projects
 * Wrote the input parser and passed parsed tokens to their respective functions
 * 2013 Facebook SoCal Hackathon Winner
 
+Skills
+------
+
+**Languages**: JavaScript (& React), PHP (Hack), Python, Java, SQL, C, C++, HTML, CSS
+
+**Tools**: Linux/Unix CLI, Heroku, Vim, Git, Mercurial, Xcode, Visual Studio, Atom, Chef
+
 Education
 ---------
-2012-2016, 2020 (expected)
-
 B.S., Computer Science, University of California, Los Angeles
+
+2012-2016, 2020 (expected). GPA: 3.0
 
 About Me
 --------
