@@ -1,10 +1,8 @@
 ---
 geometry:
-- margin=0.9in
-linestretch: 1.2
+- margin=1in
+linestretch: 1.109
 urlcolor: cyan
-header-includes:
-  - \usepackage{multicol}
 ---
 
 \pagenumbering{gobble}

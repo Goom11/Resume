@@ -1,7 +1,11 @@
 ---
-geometry: margin=0.5in
+geometry:
+- margin=1in
+linestretch: 1.109
 urlcolor: cyan
 ---
+
+\pagenumbering{gobble}
 
 ------------
 Aman Agarwal
@@ -12,43 +16,39 @@ Aman Agarwal
 Work Experience
 ---------------
 
-**Facebook** Software Engineer, July 2017 - Current
+**Facebook** Software Engineer, July 2017 - Current, Intern, July 2015 - September 2015 & July 2016 - September 2016
 
-[Nuclide](https://nuclide.io/) is a custom IDE for Facebook developers written primarily in Javascript and Flow using ReactJS and Observables (RxJS).
+Worked on the [Nuclide](https://nuclide.io/) team, Facebook's custom IDE written primarily in Javascript and Flow using ReactJS and Observables (RxJS). Collaborated with partner and cross-functional teams, developed project plans, and communicated timelines and progress regularly.
 
 **Java Debugger**
 
-* **DAP Migration**: Rewrote Nuclide's in house Java debugger to speak [Microsoft's Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-protocol/)  as part of a project to migrate all Nuclide debuggers to speak the same protocol
-    * Wrote multithreaded Java and learned to debug race conditions and properly use locks
-    * Wrote end-to-end tests
-* **Driving Adoption**: Conducted user research on FB Android developers and drove adoption by developing features including better console expression evaluation, evaluate on hover support for variables in code, support for custom source paths allowing developers to debug library and other non standard code, and more
+* **DAP Migration**: Rewrote Nuclide's in-house Java debugger to speak [Microsoft's Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-protocol/)
+    * Wrote multithreaded Java, debugged race conditions, added end-to-end tests, and properly used locks
+* **Driving Adoption**: Single-handedly conducted user research with developers to prioritize tasks. Drove adoption through better console expression evaluation, evaluate-on-hover support for variables in code, and support for custom source paths allowing developers to debug library and non-standard code.
     * Used analytics infrastructure to measure changes in daily, weekly, and monthly usage
 
 **Python Support**
 
-* **User Research**: Conducted user interviews and user surverys to find users' biggest pain points
-* **Python Debugger**: Sync And FB Specific Integrations
-    * Pulled in upstream changes for the Python debugger, pulling in over two years worth of open source commits resulting in greater performance, bug fixes and additional features
-    * Added custom support for Instagram Django Python developers who work inside of a tupperware container and need custom port forwarding and path mapping as well as a custom Chef deployment of Nuclide
-* **Format On Save**: Feature in Nuclide that would format your file on save, using the appropriate formatter and formatter configuration according to your file's repository
-    * Worked with FB Lint teams
-    * Like all other projects, I communicated my progress by sharing a live document consisting of a breakdown of the tasks, a timeline, and any notes on what was currently blocking my progress
+* **Python Debugger**: Synced over two years of open source commits for the Python debugger resulting in faster performance and bug fixes
+    * Added custom support for Django developer containers providing port forwarding, path mapping, and a Chef deployment of Nuclide
+* **Format on Save**: Developed feature in Nuclide that formats file on save, pairing the appropriate formatter with the formatter configuration specific to a file's repository
 
-**Facebook** Software Engineering Intern, July 2016 - September 2016
 
-* Uhaul-Daiquery Integration: Improving Data Scientist's UX by integrating two separate but commonly used together tools
+**Daiquery**
+
+* **Uhaul Integration**: Improving Data Scientists' UX by integrating two separate, but commonly used tools
     * Reduced cognitive overhead by remembering dependencies between queries and data transfers
-    * Reduced cognitive overhead by pulling in metadata of datasets to help users compile queries more easily
+    * Helped users compile queries more easily by pulling in metadata of datasets
 
-**Facebook** Software Engineering Intern, July 2015 - September 2015
+* ComponentKit
 
-* [pcomponents](http://componentkit.org/docs/debugging.html#pcomponents): debugging tool for [ComponentKit](http://componentkit.org/), a React-inspired view framework for iOS
+* **[pcomponents](http://componentkit.org/docs/debugging.html#pcomponents)**: debugging tool for [ComponentKit](http://componentkit.org/), a React-inspired view framework for iOS
     * Used by Facebook's iOS developers
     * automatically generates debugging information for the app's bug reports
     * Open sourced, I have met developers outside of Facebook who use it
-* Performance Components: tool for measuring Component creation and layout computation times
+* **Performance Components**: tool for measuring Component creation and layout computation times
     * Generated data to determine which components used the most time
-* Shimmering Stories: changed the way new Facebook posts load
+* **Shimmering Stories**: changed the way new Facebook posts load
     * Changes increased user interaction during the period in which new posts were being loaded from the server
 
 **Coupa Software** Software Engineering Intern, July 2013 - September 2013
@@ -82,9 +82,9 @@ Projects
 Skills
 ------
 
-**Languages**: JavaScript (& React), PHP (Hack), Python, Java, SQL, C, C++, HTML, CSS
+**Languages** JavaScript, PHP/Hack, Python, Java, SQL, C, C++, HTML, CSS
 
-**Tools**: Linux/Unix CLI, Heroku, Vim, Git, Mercurial, Xcode, Visual Studio, Atom, Chef
+**Tools** Linux/Unix CLI, Heroku, Vim, Git, Mercurial, Xcode, Visual Studio, Atom, Chef
 
 Education
 ---------
