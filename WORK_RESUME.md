@@ -1,5 +1,7 @@
 ---
-geometry: margin=0.5in
+geometry:
+- margin=0.9in
+linestretch: 1.2
 urlcolor: cyan
 header-includes:
   - \usepackage{multicol}
@@ -16,15 +18,15 @@ Aman Agarwal
 Work Experience
 ---------------
 
-**Facebook** Software Engineer, July 2017 - Current, Intern July 2015 - September 2015 & July 2016 - September 2016
+**Facebook** Software Engineer, July 2017 - Current, Intern, July 2015 - September 2015 & July 2016 - September 2016
 
-Worked on the [Nuclide](https://nuclide.io/) team, Facebook's custom IDE written primarily in Javascript and Flow using ReactJS and Observables (RxJS). Worked with partner and cross-functional teams, developed project plans, and communicated my timeline and progress.
+Worked on the [Nuclide](https://nuclide.io/) team, Facebook's custom IDE written primarily in Javascript and Flow using ReactJS and Observables (RxJS). Collaborated with partner and cross-functional teams, developed project plans, and communicated timelines and progress regularly.
 
 **Java Debugger**
 
 * **DAP Migration**: Rewrote Nuclide's in-house Java debugger to speak [Microsoft's Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-protocol/)
     * Wrote multithreaded Java, debugged race conditions, added end-to-end tests, and properly used locks
-* **Driving Adoption**: Single  conducted user research with developers to prioritize tasks. Drove adoption through better console expression evaluation, evaluate-on-hover support for variables in code, and support for custom source paths allowing developers to debug library and non standard code.
+* **Driving Adoption**: Single-handedly conducted user research with developers to prioritize tasks. Drove adoption through better console expression evaluation, evaluate-on-hover support for variables in code, and support for custom source paths allowing developers to debug library and non-standard code.
     * Used analytics infrastructure to measure changes in daily, weekly, and monthly usage
 
 **Python Support**
