@@ -40,7 +40,7 @@ Worked on the [Nuclide](https://nuclide.io/) team, Facebook's custom IDE written
     * Reduced cognitive overhead by remembering dependencies between queries and data transfers
     * Helped users compile queries more easily by pulling in metadata of datasets
 
-* ComponentKit
+**ComponentKit**
 
 * **[pcomponents](http://componentkit.org/docs/debugging.html#pcomponents)**: debugging tool for [ComponentKit](http://componentkit.org/), a React-inspired view framework for iOS
     * Used by Facebook's iOS developers
@@ -51,7 +51,7 @@ Worked on the [Nuclide](https://nuclide.io/) team, Facebook's custom IDE written
 * **Shimmering Stories**: changed the way new Facebook posts load
     * Changes increased user interaction during the period in which new posts were being loaded from the server
 
-**Coupa Software** Software Engineering Intern, July 2013 - September 2013
+**Coupa Software** Software Engineering Intern, June 2013 - September 2013
 
 * Created and setup a developer VM
     * Decreased ramp up time for new developers
