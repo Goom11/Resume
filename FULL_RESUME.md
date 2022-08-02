@@ -29,7 +29,7 @@ header-includes:
 Work Experience
 ---------------
 
-**Austen Summers Inc.** COO and Coach, February 2021 - April 2022
+**Austen Summers Inc.** COO and Coach, February 2021 - Current
 
 Worked at a social skills development company that taught our clients to overcome social anxiety to help them with their careers, public speaking, and dating.
 
