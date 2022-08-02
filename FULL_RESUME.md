@@ -31,7 +31,7 @@ Work Experience
 
 **Austen Summers Inc.** COO and Coach, February 2021 - April 2022
 
-Worked at a social skills development company that taught our clients to overcome social anxiety to help them in their careers, with public speaking, and with dating.
+Worked at a social skills development company that taught our clients to overcome social anxiety to help them with their careers, public speaking, and dating.
 
 ***COO***
 
