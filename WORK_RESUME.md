@@ -3,15 +3,28 @@ geometry:
 - margin=1in
 linestretch: 1.109
 urlcolor: cyan
+header-includes:
+    - \usepackage{multicol}
+    - \newcommand{\hideFromPandoc}[1]{#1}
+    - \hideFromPandoc{
+        \let\Begin\begin
+        \let\End\end
+      }
 ---
 
 \pagenumbering{gobble}
 
-------------
-Aman Agarwal
-------------
+\Begin{multicols}{2}
 
-<aman.agarwal.2718@gmail.com> [\hfill]() [https://github.com/Goom11](https://github.com/Goom11)
+# Aman Agarwal
+
+\columnbreak
+
+[https://github.com/Goom11](https://github.com/Goom11)
+
+<aman.agarwal.2718@gmail.com>
+
+\End{multicols}
 
 Work Experience
 ---------------
@@ -43,12 +56,12 @@ Worked on the [Nuclide](https://nuclide.io/) team, Facebook's custom IDE written
 Skills
 ------
 
-**Languages** JavaScript, PHP/Hack, Python, Java, SQL, C, C++, HTML, CSS
+**Languages** JavaScript, Java, PHP/Hack, Python, SQL, C, C++, HTML, CSS
 
-**Tools** Linux/Unix CLI, Heroku, Vim, Git, Mercurial, Xcode, Visual Studio, Atom, Chef
+**Tools** Linux/Unix CLI, Vim, Git, Mercurial, Visual Studio Code, XCode, Nuclide/Atom, Heroku
 
 Education
 ---------
 B.S., Computer Science, University of California, Los Angeles
 
-2012-2016, 2020 (expected). GPA: 3.0
+2012-2016, 2020. GPA: 3.0
