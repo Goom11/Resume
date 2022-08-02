@@ -47,7 +47,7 @@ Worked at a social skills development company that taught our clients to overcom
 * Diagnosed with incredible accuracy the primary issues and sticking points clients were having with their social lives
 * Effortlessly created a trusting and safe environment where clients could be vulnerable and open about their insecurities and struggles
 
-**Amazon** Software Dev Engineer, September 2019 - December 2019, May 2020 - January 2021
+**Amazon** Software Dev Engineer, September 2019 - January 2021
 
 Worked on a team that designed and built scalable backend web services and customer facing APIs to help support tracking and hiring headcounts within Amazon primarily with the Recruiting teams. The services were primarily written in Java, Javascript, and JQuery and used AWS technologies such as EC2 and RDS/DynamoDB/RedShift.
 
